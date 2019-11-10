@@ -4,13 +4,13 @@
 
 # 畫面示意圖
 #### 登入首頁
-<img src="https://github.com/philip-lai/Sem3A4_trash-talk-generator/blob/master/README_pic/initial.png?raw=true" width="100%" />
+<img src="https://github.com/philip-lai/Sem3A5_basic_login/blob/master/README_pic/login_page.png?raw=true" width="100%" />
 
 #### 登入成功
-<img src="https://github.com/philip-lai/Sem3A4_trash-talk-generator/blob/master/README_pic/nothing_generate.png?raw=true" width="100%" />
+<img src="https://github.com/philip-lai/Sem3A5_basic_login/blob/master/README_pic/login_success.png?raw=true" width="100%" />
 
 #### 登入失敗
-<img src="https://github.com/philip-lai/Sem3A4_trash-talk-generator/blob/master/README_pic/generate.png?raw=true" width="100%" />
+<img src="https://github.com/philip-lai/Sem3A5_basic_login/blob/master/README_pic/login_fail.png?raw=true" width="100%" />
 
 # 安裝說明
 #### 1. 開啟終端機，將專案下載至本機端
